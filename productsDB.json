@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pencil",
+      "quantity": 94,
+      "price": 5,
+      "errorMessage": ""
+    },
+    {
+      "id": "2",
+      "name": "Eraser",
+      "quantity": 45,
+      "price": 2,
+      "errorMessage": ""
+    },
+    {
+      "id": "3",
+      "name": "Sharpner",
+      "quantity": 23,
+      "price": 3,
+      "errorMessage": ""
+    },
+    {
+      "id": "4",
+      "name": "Scale",
+      "quantity": 98,
+      "price": 5,
+      "errorMessage": ""
+    },
+    {
+      "id": "5",
+      "name": "Colour Pencils",
+      "price": "20",
+      "quantity": "20"
+    },
+    {
+      "id": "6",
+      "name": "Crayons",
+      "price": "30",
+      "quantity": "10"
+    },
+    {
+      "id": "7",
+      "name": "Sketch",
+      "price": "40",
+      "quantity": "15"
+    },
+    {
+      "id": "8",
+      "name": "Ruled Note",
+      "price": "50",
+      "quantity": "25"
+    },
+    {
+      "id": "9",
+      "name": "Colouring Book",
+      "price": "25",
+      "quantity": "25"
+    }
+  ]
+}
